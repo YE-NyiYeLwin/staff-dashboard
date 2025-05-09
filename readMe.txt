@@ -5,6 +5,8 @@ Reusable components: https://ui.shadcn.com/ is used for custom source code compo
 lucide-react icons
 Simulated async (e.g., setTimeout) for ticket submission in app/it-request/page.tsx
 
+hosted on: https://v0-staff-dashboard-five.vercel.app
+
 ## Prerequisites
 
 1. Node.js (LTS version, e.g., v18.x or v20.x)
